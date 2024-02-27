@@ -1,2 +1,2 @@
-# SampleBooks
-Organizer for lab notes and data in Jupyter notebooks
+# Samplebook
+Hierarchical structure for describing processes and summarizing data using jupyter notebook
